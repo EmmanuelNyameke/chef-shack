@@ -1,0 +1,18 @@
+C:\Users\HELLO\Source\Repos\Chef Shack\obj\Debug\net8.0-windows\Chef_Shack.frmDepreciation.resources
+C:\Users\HELLO\Source\Repos\Chef Shack\obj\Debug\net8.0-windows\Chef Shack.vbproj.GenerateResource.cache
+C:\Users\HELLO\Source\Repos\Chef Shack\obj\Debug\net8.0-windows\Chef Shack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\Chef Shack\obj\Debug\net8.0-windows\Chef Shack.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\Chef Shack\obj\Debug\net8.0-windows\Chef Shack.AssemblyInfo.vb
+C:\Users\HELLO\Source\Repos\Chef Shack\obj\Debug\net8.0-windows\Chef Shack.vbproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\Chef Shack\bin\Debug\net8.0-windows\Chef Shack.exe
+C:\Users\HELLO\Source\Repos\Chef Shack\bin\Debug\net8.0-windows\Chef Shack.deps.json
+C:\Users\HELLO\Source\Repos\Chef Shack\bin\Debug\net8.0-windows\Chef Shack.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\Chef Shack\bin\Debug\net8.0-windows\Chef Shack.dll
+C:\Users\HELLO\Source\Repos\Chef Shack\bin\Debug\net8.0-windows\Chef Shack.pdb
+C:\Users\HELLO\Source\Repos\Chef Shack\obj\Debug\net8.0-windows\Chef Shack.dll
+C:\Users\HELLO\Source\Repos\Chef Shack\obj\Debug\net8.0-windows\refint\Chef Shack.dll
+C:\Users\HELLO\Source\Repos\Chef Shack\obj\Debug\net8.0-windows\Chef Shack.pdb
+C:\Users\HELLO\Source\Repos\Chef Shack\obj\Debug\net8.0-windows\Chef Shack.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\Chef Shack\obj\Debug\net8.0-windows\ref\Chef Shack.dll
+C:\Users\HELLO\Source\Repos\Chef Shack\obj\Debug\net8.0-windows\Chef_Shack.frmDisplayInventory.resources
+C:\Users\HELLO\Source\Repos\Chef Shack\obj\Debug\net8.0-windows\Chef_Shack.Resources.resources
